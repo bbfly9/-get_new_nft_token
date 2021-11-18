@@ -3,7 +3,7 @@
 # New PancakeSwap NFT Agent
 
 ## Description
-Событие создания NFT токена в маркетплейсе  PancakeSwap
+NFT creation event in PancakeSwap marketplace
 ## Supported Chains
 
 - BSC
@@ -12,5 +12,5 @@
 
 
 - FORTA-1000
-  - Срабатывает когда обнаружен новый токен
-  -  В метаданных tokenId = Id токена 
+  - Triggers when new token is detected
+  -  In the metadata tokenId = Id of token 
